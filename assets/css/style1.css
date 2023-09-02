@@ -1,0 +1,22 @@
+.banner{
+    background-color: teal;
+}
+.padding{
+    padding: 50px; 
+    padding: 50px 100px;
+    padding: 25px 50px 75px;
+    padding: 25px 50px 75px 100px;
+}
+
+.border{
+    border: 5px solid red;
+    border-color: red blue;
+    border-color: red yellow blue;
+    border-color: red yellow blue black;
+}
+.margin{
+    margin:50px;
+    margin: 25px 50px;
+    margin: 25px 50px 75px;
+    margin: 25px 50px 75px 100px;
+}

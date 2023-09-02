@@ -1,0 +1,18 @@
+    
+    /* Tablet Version */
+   
+ @media(min-width:769px) and (max-width=1200px){
+    .banner>div>img{
+
+    background: url(../images/tablett.jpg) no-repeat center;
+ }
+   
+}
+
+/* Mobile Version */
+@media(max-width=768px){
+    .banner>div>img{
+        background: url(../images/mob.jpg) no-repeat center;
+
+}}
+    

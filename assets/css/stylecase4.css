@@ -1,0 +1,56 @@
+
+
+.banner{
+    background-color:darkgray;
+    padding: 20px ;
+    padding-bottom: 30px;
+}
+.card{
+    background-color: rgb(240, 227, 109);
+    width: 500px;
+    padding: 20px;
+    border-radius: 10px;
+    transition: 1s ease-in-out;
+    align-self: center;
+    
+}
+label{
+    color: Blue;
+    font-size: 17px;
+}
+label:hover{
+    color: rgb(12, 203, 60);
+}
+input{
+    background-color:lightgoldenrodyellow;
+    border: transparent;
+    border-radius: 10px;
+    
+}
+[for="male"],[for="female"],[for="eng"],[for="kan"],[for="hin"]{
+    color: crimson;
+}
+
+[type="text"],[type="number"],[type="date"],[type="email"]{
+ height: 26px;
+ width: 200px;
+}
+.card:hover{
+    transform: scale(1.1,1.1);
+    
+}
+h1{
+    background-color: bisque;
+    color: blue;
+    width: 20%;
+    margin-bottom: 40px;
+}
+[type="submit"]{
+    background-color: red;
+    color: white;
+}
+[type="reset"]{
+    background-color: blue;
+    color: white;
+}
+
